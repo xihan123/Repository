@@ -1,0 +1,67 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.xihan",
+    "module": "lib_banner",
+    "version": "0.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "lib_banner-0.0.1.aar",
+          "url": "lib_banner-0.0.1.aar",
+          "size": 45459,
+          "sha512": "f36f4e90e914acfd0026c55cec76e3143b378fcc60407f29d8218d0ed707a156a8da2826b8a1cdc4a9ef489b70e99de77c042ae065ebc32f347450174b9bb225",
+          "sha256": "4d74b6068242d0858b5e59fad0e576dbbf1383eab9bdb2cb596d8267f53b3870",
+          "sha1": "3ad3a7dffbb4a489572007775e03c3e5e7614668",
+          "md5": "9f49fdbebf5c6fa5b4e7a92fc78c789f"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.viewpager2",
+          "module": "viewpager2",
+          "version": {
+            "requires": "latest.release"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lib_banner-0.0.1.aar",
+          "url": "lib_banner-0.0.1.aar",
+          "size": 45459,
+          "sha512": "f36f4e90e914acfd0026c55cec76e3143b378fcc60407f29d8218d0ed707a156a8da2826b8a1cdc4a9ef489b70e99de77c042ae065ebc32f347450174b9bb225",
+          "sha256": "4d74b6068242d0858b5e59fad0e576dbbf1383eab9bdb2cb596d8267f53b3870",
+          "sha1": "3ad3a7dffbb4a489572007775e03c3e5e7614668",
+          "md5": "9f49fdbebf5c6fa5b4e7a92fc78c789f"
+        }
+      ]
+    }
+  ]
+}

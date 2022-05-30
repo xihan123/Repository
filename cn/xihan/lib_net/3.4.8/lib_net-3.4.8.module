@@ -1,0 +1,83 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.xihan",
+    "module": "lib_net",
+    "version": "3.4.8",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.0-RC"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lib_net-3.4.8.aar",
+          "url": "lib_net-3.4.8.aar",
+          "size": 305515,
+          "sha512": "94ba0257b831fd0706a96ed5ddcde24a8c101f077b459f355b21d343579059ed2b40022f5a76eba7d16fa54f69899c28db3a2995b1e4d244317bd1770fded8df",
+          "sha256": "e9ff59127bff92c2dab8f97e86a27505861b4b0ba03fdcae75835bc2fe75175e",
+          "sha1": "f15471ef887727e0de5c780b24f7c4d683a45800",
+          "md5": "eb792968fd2653abcac9e417b0bfc07b"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.0-RC"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.6.0-alpha04"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lib_net-3.4.8.aar",
+          "url": "lib_net-3.4.8.aar",
+          "size": 305515,
+          "sha512": "94ba0257b831fd0706a96ed5ddcde24a8c101f077b459f355b21d343579059ed2b40022f5a76eba7d16fa54f69899c28db3a2995b1e4d244317bd1770fded8df",
+          "sha256": "e9ff59127bff92c2dab8f97e86a27505861b4b0ba03fdcae75835bc2fe75175e",
+          "sha1": "f15471ef887727e0de5c780b24f7c4d683a45800",
+          "md5": "eb792968fd2653abcac9e417b0bfc07b"
+        }
+      ]
+    }
+  ]
+}

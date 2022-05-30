@@ -1,0 +1,83 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.xihan",
+    "module": "lib_JZVideo",
+    "version": "0.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.0-RC"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lib_JZVideo-0.0.1.aar",
+          "url": "lib_JZVideo-0.0.1.aar",
+          "size": 80824,
+          "sha512": "0c9ce5b8c70ace371822b7a07c7c7454ac6f797565e2a3060c2a518c8fc092d0000633f04785ad30949a424476b0dec6072903750f3d3a2c53d5b01a2bc8636d",
+          "sha256": "bbb627864a83857707e61301c147528763795680cd462622a1e1ff5d3abdd0b8",
+          "sha1": "1aa7c40f2b2cc9d0f05d2aa261f18a85a1d11f78",
+          "md5": "33af85055d0b4569a3dc0774b1cd04ca"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.0-RC"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.9.0-alpha04"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lib_JZVideo-0.0.1.aar",
+          "url": "lib_JZVideo-0.0.1.aar",
+          "size": 80824,
+          "sha512": "0c9ce5b8c70ace371822b7a07c7c7454ac6f797565e2a3060c2a518c8fc092d0000633f04785ad30949a424476b0dec6072903750f3d3a2c53d5b01a2bc8636d",
+          "sha256": "bbb627864a83857707e61301c147528763795680cd462622a1e1ff5d3abdd0b8",
+          "sha1": "1aa7c40f2b2cc9d0f05d2aa261f18a85a1d11f78",
+          "md5": "33af85055d0b4569a3dc0774b1cd04ca"
+        }
+      ]
+    }
+  ]
+}
