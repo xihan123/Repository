@@ -1,0 +1,202 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.xihan",
+    "module": "lib_brv",
+    "version": "1.3.73",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "cn.xihan",
+          "module": "lib_statelayout",
+          "version": {
+            "requires": "1.3.5"
+          }
+        },
+        {
+          "group": "io.github.scwang90",
+          "module": "refresh-layout-kernel",
+          "version": {
+            "requires": "2.0.5"
+          }
+        },
+        {
+          "group": "io.github.scwang90",
+          "module": "refresh-header-material",
+          "version": {
+            "requires": "2.0.5"
+          }
+        },
+        {
+          "group": "io.github.scwang90",
+          "module": "refresh-footer-classics",
+          "version": {
+            "requires": "2.0.5"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.4.0-alpha02"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.4.0-alpha02"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.4.0-alpha02"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.4.0-alpha02"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.0-RC"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lib_brv-1.3.73.aar",
+          "url": "lib_brv-1.3.73.aar",
+          "size": 138526,
+          "sha512": "397d3f2b07b87090f0053a737d76f305722a83d98be8b2386b9392a57afd804ae1e02f7581ef22f6d189247e77d980f8d2fdcfcd1bfc5b7f56ee5293ca43c218",
+          "sha256": "c666750935c37f23b553997499a268d895ad2cc8bb5fba92aceb99c8cdf3844f",
+          "sha1": "72f14b8f038fbed3ab6c3ca324a4264a347cf9f6",
+          "md5": "be5ed3cff71f162f0d27634fe6840aea"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "cn.xihan",
+          "module": "lib_statelayout",
+          "version": {
+            "requires": "1.3.5"
+          }
+        },
+        {
+          "group": "io.github.scwang90",
+          "module": "refresh-layout-kernel",
+          "version": {
+            "requires": "2.0.5"
+          }
+        },
+        {
+          "group": "io.github.scwang90",
+          "module": "refresh-header-material",
+          "version": {
+            "requires": "2.0.5"
+          }
+        },
+        {
+          "group": "io.github.scwang90",
+          "module": "refresh-footer-classics",
+          "version": {
+            "requires": "2.0.5"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-common",
+          "version": {
+            "requires": "7.4.0-alpha02"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-runtime",
+          "version": {
+            "requires": "7.4.0-alpha02"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-adapters",
+          "version": {
+            "requires": "7.4.0-alpha02"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "databinding-ktx",
+          "version": {
+            "requires": "7.4.0-alpha02"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.0-RC"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.9.0-alpha04"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.6.0-alpha04"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lib_brv-1.3.73.aar",
+          "url": "lib_brv-1.3.73.aar",
+          "size": 138526,
+          "sha512": "397d3f2b07b87090f0053a737d76f305722a83d98be8b2386b9392a57afd804ae1e02f7581ef22f6d189247e77d980f8d2fdcfcd1bfc5b7f56ee5293ca43c218",
+          "sha256": "c666750935c37f23b553997499a268d895ad2cc8bb5fba92aceb99c8cdf3844f",
+          "sha1": "72f14b8f038fbed3ab6c3ca324a4264a347cf9f6",
+          "md5": "be5ed3cff71f162f0d27634fe6840aea"
+        }
+      ]
+    }
+  ]
+}
