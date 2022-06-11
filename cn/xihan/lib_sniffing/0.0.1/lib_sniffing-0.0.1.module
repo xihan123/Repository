@@ -42,11 +42,11 @@
         {
           "name": "lib_sniffing-0.0.1.aar",
           "url": "lib_sniffing-0.0.1.aar",
-          "size": 33033,
-          "sha512": "d1bef2fdfd0ab0cd8fa0270657e807d93420f6ac4557d069e69bee2f4c144bf79d7ccae7f6d8583e2e7b3bc7208aadc3653cc1542c6fd38ddaeb18c0fe8aa49c",
-          "sha256": "2746a5f3b5c488c05090b0464be6a0104b2e7d7e0d51c15814c7516065e301df",
-          "sha1": "9c1a62ad82d0f21a4475c56d71cea8c05fec96f7",
-          "md5": "0f4d7c45d99e168daa7089a713cb467b"
+          "size": 32756,
+          "sha512": "4d49b097825ccb9b1c4aa00fcb5df4639c08d34bf293470404fe99d5a28b69773d59c9ec60d688eb68c3d9f487c5801fa02a676554316a213fd300241eb3dd8e",
+          "sha256": "4fa2b60f260157c5e04d4559009af6f8ec300a3f150b19ecd797aa7cd20b3200",
+          "sha1": "1ee77f7ec9957c3640dede3285f26a7d32b6aafc",
+          "md5": "aac28ee325457a195849c762d4b84e86"
         }
       ]
     },
@@ -85,11 +85,11 @@
         {
           "name": "lib_sniffing-0.0.1.aar",
           "url": "lib_sniffing-0.0.1.aar",
-          "size": 33033,
-          "sha512": "d1bef2fdfd0ab0cd8fa0270657e807d93420f6ac4557d069e69bee2f4c144bf79d7ccae7f6d8583e2e7b3bc7208aadc3653cc1542c6fd38ddaeb18c0fe8aa49c",
-          "sha256": "2746a5f3b5c488c05090b0464be6a0104b2e7d7e0d51c15814c7516065e301df",
-          "sha1": "9c1a62ad82d0f21a4475c56d71cea8c05fec96f7",
-          "md5": "0f4d7c45d99e168daa7089a713cb467b"
+          "size": 32756,
+          "sha512": "4d49b097825ccb9b1c4aa00fcb5df4639c08d34bf293470404fe99d5a28b69773d59c9ec60d688eb68c3d9f487c5801fa02a676554316a213fd300241eb3dd8e",
+          "sha256": "4fa2b60f260157c5e04d4559009af6f8ec300a3f150b19ecd797aa7cd20b3200",
+          "sha1": "1ee77f7ec9957c3640dede3285f26a7d32b6aafc",
+          "md5": "aac28ee325457a195849c762d4b84e86"
         }
       ]
     }

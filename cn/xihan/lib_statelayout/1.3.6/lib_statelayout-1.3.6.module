@@ -1,0 +1,111 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.xihan",
+    "module": "lib_statelayout",
+    "version": "1.3.6",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lib_statelayout-1.3.6.aar",
+          "url": "lib_statelayout-1.3.6.aar",
+          "size": 29129,
+          "sha512": "95df5972b78f7f3476fc61a93e28c41c048cf69f460318b18f617d894c41b76c1fa77aab48190e65ddfed907ea41ab0f1ef2a23ea21bbe49e96d7d946d9ba4c1",
+          "sha256": "30e55364f7c802f3a9429bebfa6709e04214b9ac47cda9c9627496d1974c27bf",
+          "sha1": "57838001d3b0471e7ed464ad27019ec930e461e2",
+          "md5": "57dd97d5acf21c4ba27351e8628672fd"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-android-extensions-runtime",
+          "version": {
+            "requires": "1.7.0"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.9.0-alpha04"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.6.0-alpha04"
+          }
+        },
+        {
+          "group": "androidx.constraintlayout",
+          "module": "constraintlayout",
+          "version": {
+            "requires": "2.2.0-alpha02"
+          }
+        },
+        {
+          "group": "androidx.recyclerview",
+          "module": "recyclerview",
+          "version": {
+            "requires": "1.3.0-alpha02"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lib_statelayout-1.3.6.aar",
+          "url": "lib_statelayout-1.3.6.aar",
+          "size": 29129,
+          "sha512": "95df5972b78f7f3476fc61a93e28c41c048cf69f460318b18f617d894c41b76c1fa77aab48190e65ddfed907ea41ab0f1ef2a23ea21bbe49e96d7d946d9ba4c1",
+          "sha256": "30e55364f7c802f3a9429bebfa6709e04214b9ac47cda9c9627496d1974c27bf",
+          "sha1": "57838001d3b0471e7ed464ad27019ec930e461e2",
+          "md5": "57dd97d5acf21c4ba27351e8628672fd"
+        }
+      ]
+    }
+  ]
+}
