@@ -1,0 +1,83 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.xihan",
+    "module": "lib_spannable",
+    "version": "1.1.4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5-rc-1"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lib_spannable-1.1.4.aar",
+          "url": "lib_spannable-1.1.4.aar",
+          "size": 19919,
+          "sha512": "077562e9f7d4b7ba45041453efef4da1faeecae77bfd474e9ce9c1292c0244732170f5b6751eacaab9224a5264fe2c8798df20995639455e0caf1a753a339a40",
+          "sha256": "f2a4afaaa026fe2157ffb39148c8fffc56a6f64fc3eede893cdc81615ec78cf8",
+          "sha1": "5ffe5450b9f93851f2d00795ccde63a729681082",
+          "md5": "64aae8b47830a7456f4807060959c3f5"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.0"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.9.0-alpha05"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lib_spannable-1.1.4.aar",
+          "url": "lib_spannable-1.1.4.aar",
+          "size": 19919,
+          "sha512": "077562e9f7d4b7ba45041453efef4da1faeecae77bfd474e9ce9c1292c0244732170f5b6751eacaab9224a5264fe2c8798df20995639455e0caf1a753a339a40",
+          "sha256": "f2a4afaaa026fe2157ffb39148c8fffc56a6f64fc3eede893cdc81615ec78cf8",
+          "sha1": "5ffe5450b9f93851f2d00795ccde63a729681082",
+          "md5": "64aae8b47830a7456f4807060959c3f5"
+        }
+      ]
+    }
+  ]
+}
