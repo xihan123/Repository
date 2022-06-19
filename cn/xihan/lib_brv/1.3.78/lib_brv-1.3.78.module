@@ -92,10 +92,10 @@
           "name": "lib_brv-1.3.78.aar",
           "url": "lib_brv-1.3.78.aar",
           "size": 137733,
-          "sha512": "4839fa7a93b9d1df67c7aac0a77b9882a1c74aea0a9aab82c8059de96df6c02ca3ff4814e4ef2a8193b7f9aa6f5c9d53581738671a2f6ca39c0ab065b71caa98",
-          "sha256": "afe7cec0fe038ed6db22f51ca9beeb46ac66a24d712af3f9c6c558054fcee486",
-          "sha1": "245ac0c6e74c28b0e3fbfa4ed7d1016a777eb347",
-          "md5": "27071f075ec57e0ccbfc65a489ae0c88"
+          "sha512": "d2a68103f36adc06c07ccc957f0f732adc4a56834a33897ec82445794ad3d3fff9b648a4a1b683959730c7a84e60ce0a3f451b394bd59a50dc82d62dd60ec813",
+          "sha256": "df505dc4ea23f14dc489d69e32c46462ea11b628b274e74b6622cdbaaa023a03",
+          "sha1": "51425660638eb28faece99c9a281f18032a2b8a7",
+          "md5": "9d060ec4f37b6aa4a7d42ac995a88402"
         }
       ]
     },
@@ -182,7 +182,7 @@
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
-            "requires": "1.6.0-alpha04"
+            "requires": "1.6.0-alpha05"
           }
         }
       ],
@@ -191,10 +191,10 @@
           "name": "lib_brv-1.3.78.aar",
           "url": "lib_brv-1.3.78.aar",
           "size": 137733,
-          "sha512": "4839fa7a93b9d1df67c7aac0a77b9882a1c74aea0a9aab82c8059de96df6c02ca3ff4814e4ef2a8193b7f9aa6f5c9d53581738671a2f6ca39c0ab065b71caa98",
-          "sha256": "afe7cec0fe038ed6db22f51ca9beeb46ac66a24d712af3f9c6c558054fcee486",
-          "sha1": "245ac0c6e74c28b0e3fbfa4ed7d1016a777eb347",
-          "md5": "27071f075ec57e0ccbfc65a489ae0c88"
+          "sha512": "d2a68103f36adc06c07ccc957f0f732adc4a56834a33897ec82445794ad3d3fff9b648a4a1b683959730c7a84e60ce0a3f451b394bd59a50dc82d62dd60ec813",
+          "sha256": "df505dc4ea23f14dc489d69e32c46462ea11b628b274e74b6622cdbaaa023a03",
+          "sha1": "51425660638eb28faece99c9a281f18032a2b8a7",
+          "md5": "9d060ec4f37b6aa4a7d42ac995a88402"
         }
       ]
     }

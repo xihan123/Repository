@@ -36,10 +36,10 @@
           "name": "lib_whatif-1.1.1.aar",
           "url": "lib_whatif-1.1.1.aar",
           "size": 19451,
-          "sha512": "5299a7762603ef4350f5c880045789ec81622c8414d9fe98d26482c63f67af66d255eece639e7b1043696b777a00cac1b28bc7afba7795c8ba83f9599ecbc33f",
-          "sha256": "63d8904ad18b1164239423873ff2e5d31e4c1921a967573331ed778c83547479",
-          "sha1": "587bf83999912b26b59dfd330e368e591cc18b9b",
-          "md5": "a609ce62fe61f9af94e1b7909398a70b"
+          "sha512": "5d865b3e7e6dff8b0149715d7e7e183fba9135bc6b7f00265e6ebd2ffea253e08b7c826b8ac87c45f45f22a79121caf2829f91566fdf7a4f0e68d92c39f1c342",
+          "sha256": "dfe7eaef5c78fe5cadcd61915dcccc3ee1d9540d59f38d81ed8af83c815151b7",
+          "sha1": "6ddc9dff3e146569252ae27560f43cd9f3920cab",
+          "md5": "8981bb92e5f9b09fd1fa1337454171b3"
         }
       ]
     },
@@ -72,10 +72,10 @@
           "name": "lib_whatif-1.1.1.aar",
           "url": "lib_whatif-1.1.1.aar",
           "size": 19451,
-          "sha512": "5299a7762603ef4350f5c880045789ec81622c8414d9fe98d26482c63f67af66d255eece639e7b1043696b777a00cac1b28bc7afba7795c8ba83f9599ecbc33f",
-          "sha256": "63d8904ad18b1164239423873ff2e5d31e4c1921a967573331ed778c83547479",
-          "sha1": "587bf83999912b26b59dfd330e368e591cc18b9b",
-          "md5": "a609ce62fe61f9af94e1b7909398a70b"
+          "sha512": "5d865b3e7e6dff8b0149715d7e7e183fba9135bc6b7f00265e6ebd2ffea253e08b7c826b8ac87c45f45f22a79121caf2829f91566fdf7a4f0e68d92c39f1c342",
+          "sha256": "dfe7eaef5c78fe5cadcd61915dcccc3ee1d9540d59f38d81ed8af83c815151b7",
+          "sha1": "6ddc9dff3e146569252ae27560f43cd9f3920cab",
+          "md5": "8981bb92e5f9b09fd1fa1337454171b3"
         }
       ]
     }

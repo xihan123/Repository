@@ -27,10 +27,10 @@
           "name": "lib_banner-0.0.1.aar",
           "url": "lib_banner-0.0.1.aar",
           "size": 45411,
-          "sha512": "f6e2113a3d53a597cb4ff94cada263ae39bd1278006dbc85d8daf9c3f486bbed870de214b201f75edd518c7189a6a1b1eeb856ce64a421309aa67024324e4ffd",
-          "sha256": "347facb4df503ea27f7cec72bdc1b81a4ff34a9fa0418a73915bbbae00d1b2f8",
-          "sha1": "e211e2922ba13ef922ecae80c2d32894f3acd050",
-          "md5": "641515aad0a9af18da272705c9f633ac"
+          "sha512": "52036dd0a04cadf081eacfd709c3d48de7b294bb8c7a60bb1b82c88f76c536442b838b233cfb0f279af4f0b74c4ac2968c43e2b1d15b73a1202f9bc87806aba1",
+          "sha256": "0bf72702bf9c92f0d3f1b49183a82a92e9a3487378acd4d8c682bab667d8179a",
+          "sha1": "281d61c95c0101756aed558c86e98a78b2fcb194",
+          "md5": "766a2c46c852a0111f290c31a1fcc7f1"
         }
       ]
     },
@@ -56,10 +56,10 @@
           "name": "lib_banner-0.0.1.aar",
           "url": "lib_banner-0.0.1.aar",
           "size": 45411,
-          "sha512": "f6e2113a3d53a597cb4ff94cada263ae39bd1278006dbc85d8daf9c3f486bbed870de214b201f75edd518c7189a6a1b1eeb856ce64a421309aa67024324e4ffd",
-          "sha256": "347facb4df503ea27f7cec72bdc1b81a4ff34a9fa0418a73915bbbae00d1b2f8",
-          "sha1": "e211e2922ba13ef922ecae80c2d32894f3acd050",
-          "md5": "641515aad0a9af18da272705c9f633ac"
+          "sha512": "52036dd0a04cadf081eacfd709c3d48de7b294bb8c7a60bb1b82c88f76c536442b838b233cfb0f279af4f0b74c4ac2968c43e2b1d15b73a1202f9bc87806aba1",
+          "sha256": "0bf72702bf9c92f0d3f1b49183a82a92e9a3487378acd4d8c682bab667d8179a",
+          "sha1": "281d61c95c0101756aed558c86e98a78b2fcb194",
+          "md5": "766a2c46c852a0111f290c31a1fcc7f1"
         }
       ]
     }

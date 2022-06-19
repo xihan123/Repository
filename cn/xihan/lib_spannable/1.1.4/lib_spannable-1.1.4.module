@@ -36,10 +36,10 @@
           "name": "lib_spannable-1.1.4.aar",
           "url": "lib_spannable-1.1.4.aar",
           "size": 19919,
-          "sha512": "077562e9f7d4b7ba45041453efef4da1faeecae77bfd474e9ce9c1292c0244732170f5b6751eacaab9224a5264fe2c8798df20995639455e0caf1a753a339a40",
-          "sha256": "f2a4afaaa026fe2157ffb39148c8fffc56a6f64fc3eede893cdc81615ec78cf8",
-          "sha1": "5ffe5450b9f93851f2d00795ccde63a729681082",
-          "md5": "64aae8b47830a7456f4807060959c3f5"
+          "sha512": "0c428891617fc4a02666aa0a86cfa73ea3027543ca515a036c077cfdb0e193da42bea6d172774e363e044e748d05655cf891c244c098cbeaf2d8a0d98725c196",
+          "sha256": "25a839c73f25002abf5beb561121d4c567b1f34ec2cf7459f18d61602c7d0bfe",
+          "sha1": "071c7fd71d42b58e562117e378cb9cc940ea838b",
+          "md5": "d5d0815c734f72b02c5df0386bb8c916"
         }
       ]
     },
@@ -72,10 +72,10 @@
           "name": "lib_spannable-1.1.4.aar",
           "url": "lib_spannable-1.1.4.aar",
           "size": 19919,
-          "sha512": "077562e9f7d4b7ba45041453efef4da1faeecae77bfd474e9ce9c1292c0244732170f5b6751eacaab9224a5264fe2c8798df20995639455e0caf1a753a339a40",
-          "sha256": "f2a4afaaa026fe2157ffb39148c8fffc56a6f64fc3eede893cdc81615ec78cf8",
-          "sha1": "5ffe5450b9f93851f2d00795ccde63a729681082",
-          "md5": "64aae8b47830a7456f4807060959c3f5"
+          "sha512": "0c428891617fc4a02666aa0a86cfa73ea3027543ca515a036c077cfdb0e193da42bea6d172774e363e044e748d05655cf891c244c098cbeaf2d8a0d98725c196",
+          "sha256": "25a839c73f25002abf5beb561121d4c567b1f34ec2cf7459f18d61602c7d0bfe",
+          "sha1": "071c7fd71d42b58e562117e378cb9cc940ea838b",
+          "md5": "d5d0815c734f72b02c5df0386bb8c916"
         }
       ]
     }

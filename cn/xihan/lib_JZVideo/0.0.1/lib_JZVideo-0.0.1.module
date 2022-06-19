@@ -36,10 +36,10 @@
           "name": "lib_JZVideo-0.0.1.aar",
           "url": "lib_JZVideo-0.0.1.aar",
           "size": 80824,
-          "sha512": "0e3c7fbf3c32a0e7aedf551cfe7de25a98598b9e73e8675c7c0060eb7c2c19a88c895ed356179fac9b35cf0fd1430c52f03925425284e0f16a43f91d66abc8fb",
-          "sha256": "5e5d132f99de7ed87d0ed1faa4a4a6089100194c0dc187ae7debd424839348fc",
-          "sha1": "9a9ee1a8e10d06d7b9afd07d922dc89ce16b6f94",
-          "md5": "456b6ede56386c689a1adb5f1bc5ee9f"
+          "sha512": "0c9ce5b8c70ace371822b7a07c7c7454ac6f797565e2a3060c2a518c8fc092d0000633f04785ad30949a424476b0dec6072903750f3d3a2c53d5b01a2bc8636d",
+          "sha256": "bbb627864a83857707e61301c147528763795680cd462622a1e1ff5d3abdd0b8",
+          "sha1": "1aa7c40f2b2cc9d0f05d2aa261f18a85a1d11f78",
+          "md5": "33af85055d0b4569a3dc0774b1cd04ca"
         }
       ]
     },
@@ -72,10 +72,10 @@
           "name": "lib_JZVideo-0.0.1.aar",
           "url": "lib_JZVideo-0.0.1.aar",
           "size": 80824,
-          "sha512": "0e3c7fbf3c32a0e7aedf551cfe7de25a98598b9e73e8675c7c0060eb7c2c19a88c895ed356179fac9b35cf0fd1430c52f03925425284e0f16a43f91d66abc8fb",
-          "sha256": "5e5d132f99de7ed87d0ed1faa4a4a6089100194c0dc187ae7debd424839348fc",
-          "sha1": "9a9ee1a8e10d06d7b9afd07d922dc89ce16b6f94",
-          "md5": "456b6ede56386c689a1adb5f1bc5ee9f"
+          "sha512": "0c9ce5b8c70ace371822b7a07c7c7454ac6f797565e2a3060c2a518c8fc092d0000633f04785ad30949a424476b0dec6072903750f3d3a2c53d5b01a2bc8636d",
+          "sha256": "bbb627864a83857707e61301c147528763795680cd462622a1e1ff5d3abdd0b8",
+          "sha1": "1aa7c40f2b2cc9d0f05d2aa261f18a85a1d11f78",
+          "md5": "33af85055d0b4569a3dc0774b1cd04ca"
         }
       ]
     }

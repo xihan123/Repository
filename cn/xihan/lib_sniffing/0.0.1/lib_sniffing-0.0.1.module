@@ -43,10 +43,10 @@
           "name": "lib_sniffing-0.0.1.aar",
           "url": "lib_sniffing-0.0.1.aar",
           "size": 32691,
-          "sha512": "7443975a4ae9976c79747fdec7a9f5538aaba8fe9f821ee2e18cc4ae0983de23459bbf10ca6e881161b59722391808067910b26c74f813385237b96862fc7cc9",
-          "sha256": "e3aaeff9d529fa1f0e9af961cede06f99f1a3e754f894083f22b8b1a08de7113",
-          "sha1": "cd1c1303d7388ab918714c3ba6e7a8b9391e445a",
-          "md5": "294a19d98bc1f5e2b7d89094119886e8"
+          "sha512": "487f274a5fad94c85006f4e5e67eeb6d4539d7563499267edd4f939d3781be75bc20b5f089b62980861208b6c53b29c688888ff5016efd8b37bb496a2a94a3e2",
+          "sha256": "95258c08f8ea84cd58cb681fa2127e803e7d42cde925e4c17264f26bf674ede6",
+          "sha1": "94a91990744ac3bd8d92b7464010a292248a85af",
+          "md5": "5da3328024815b4f059b1fa9406f0c4a"
         }
       ]
     },
@@ -63,7 +63,7 @@
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
-            "requires": "1.6.0-alpha04"
+            "requires": "1.6.0-alpha05"
           }
         },
         {
@@ -86,10 +86,10 @@
           "name": "lib_sniffing-0.0.1.aar",
           "url": "lib_sniffing-0.0.1.aar",
           "size": 32691,
-          "sha512": "7443975a4ae9976c79747fdec7a9f5538aaba8fe9f821ee2e18cc4ae0983de23459bbf10ca6e881161b59722391808067910b26c74f813385237b96862fc7cc9",
-          "sha256": "e3aaeff9d529fa1f0e9af961cede06f99f1a3e754f894083f22b8b1a08de7113",
-          "sha1": "cd1c1303d7388ab918714c3ba6e7a8b9391e445a",
-          "md5": "294a19d98bc1f5e2b7d89094119886e8"
+          "sha512": "487f274a5fad94c85006f4e5e67eeb6d4539d7563499267edd4f939d3781be75bc20b5f089b62980861208b6c53b29c688888ff5016efd8b37bb496a2a94a3e2",
+          "sha256": "95258c08f8ea84cd58cb681fa2127e803e7d42cde925e4c17264f26bf674ede6",
+          "sha1": "94a91990744ac3bd8d92b7464010a292248a85af",
+          "md5": "5da3328024815b4f059b1fa9406f0c4a"
         }
       ]
     }
