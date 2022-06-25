@@ -3,7 +3,7 @@
   "component": {
     "group": "cn.xihan",
     "module": "lib_brv",
-    "version": "1.3.78",
+    "version": "1.3.79",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -89,8 +89,8 @@
       ],
       "files": [
         {
-          "name": "lib_brv-1.3.78.aar",
-          "url": "lib_brv-1.3.78.aar",
+          "name": "lib_brv-1.3.79.aar",
+          "url": "lib_brv-1.3.79.aar",
           "size": 137740,
           "sha512": "bbfd55221b2f4ac0862bf90d08b25843bf96c33d9f298dab038e5fdb871507264a980e8e0fe3d661aa6b7c4cb677fe70744e569072be6fb569ed1169dbfa79f7",
           "sha256": "248ed439612e0ad4df2e0e3d1a97d67ed35669943eb1d34b47e6f13c652df25c",
@@ -188,8 +188,8 @@
       ],
       "files": [
         {
-          "name": "lib_brv-1.3.78.aar",
-          "url": "lib_brv-1.3.78.aar",
+          "name": "lib_brv-1.3.79.aar",
+          "url": "lib_brv-1.3.79.aar",
           "size": 137740,
           "sha512": "bbfd55221b2f4ac0862bf90d08b25843bf96c33d9f298dab038e5fdb871507264a980e8e0fe3d661aa6b7c4cb677fe70744e569072be6fb569ed1169dbfa79f7",
           "sha256": "248ed439612e0ad4df2e0e3d1a97d67ed35669943eb1d34b47e6f13c652df25c",
