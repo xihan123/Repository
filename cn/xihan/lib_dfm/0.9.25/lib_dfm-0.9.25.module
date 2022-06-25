@@ -1,0 +1,58 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.xihan",
+    "module": "lib_dfm",
+    "version": "0.9.25",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5-rc-1"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "lib_dfm-0.9.25.aar",
+          "url": "lib_dfm-0.9.25.aar",
+          "size": 202478,
+          "sha512": "1e8d430b38cf6041665f3fad3d8699c58cebee4e5099983c7da0f7bb92e51503ef7f1ac7ae54b427ce8f1b8fbeade609d97c9244fef498c3b8180b704ba7ab3a",
+          "sha256": "e4667836597ce7e4d17a13c84b7dcb0ada262206819ed80d2b5fc7a91cda6feb",
+          "sha1": "afe15f0b2a784ff8460289f306530650d0222d5b",
+          "md5": "33ac0332c0dd7ba324b86ec048914881"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "lib_dfm-0.9.25.aar",
+          "url": "lib_dfm-0.9.25.aar",
+          "size": 202478,
+          "sha512": "1e8d430b38cf6041665f3fad3d8699c58cebee4e5099983c7da0f7bb92e51503ef7f1ac7ae54b427ce8f1b8fbeade609d97c9244fef498c3b8180b704ba7ab3a",
+          "sha256": "e4667836597ce7e4d17a13c84b7dcb0ada262206819ed80d2b5fc7a91cda6feb",
+          "sha1": "afe15f0b2a784ff8460289f306530650d0222d5b",
+          "md5": "33ac0332c0dd7ba324b86ec048914881"
+        }
+      ]
+    }
+  ]
+}
