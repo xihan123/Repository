@@ -35,11 +35,11 @@
         {
           "name": "lib_spannable-1.1.4.aar",
           "url": "lib_spannable-1.1.4.aar",
-          "size": 19919,
-          "sha512": "0c428891617fc4a02666aa0a86cfa73ea3027543ca515a036c077cfdb0e193da42bea6d172774e363e044e748d05655cf891c244c098cbeaf2d8a0d98725c196",
-          "sha256": "25a839c73f25002abf5beb561121d4c567b1f34ec2cf7459f18d61602c7d0bfe",
-          "sha1": "071c7fd71d42b58e562117e378cb9cc940ea838b",
-          "md5": "d5d0815c734f72b02c5df0386bb8c916"
+          "size": 22984,
+          "sha512": "90ad56b5b40a4eaeeac883db63bba3ef6965bdad846461be7fd020f2c17caa21dffd4dacd6ab7183f657f801db5a70ed3fe6a56069f9d85628e5368820739666",
+          "sha256": "c575755bd5e569e9b7eeb89879df204aa119107c38b72ee7799b4af93ba2926d",
+          "sha1": "96b09c1fcface0dc47dbafeeda8574dbc5e25448",
+          "md5": "c6b06c70f2e4f643adb43e92e9074cf2"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "lib_spannable-1.1.4.aar",
           "url": "lib_spannable-1.1.4.aar",
-          "size": 19919,
-          "sha512": "0c428891617fc4a02666aa0a86cfa73ea3027543ca515a036c077cfdb0e193da42bea6d172774e363e044e748d05655cf891c244c098cbeaf2d8a0d98725c196",
-          "sha256": "25a839c73f25002abf5beb561121d4c567b1f34ec2cf7459f18d61602c7d0bfe",
-          "sha1": "071c7fd71d42b58e562117e378cb9cc940ea838b",
-          "md5": "d5d0815c734f72b02c5df0386bb8c916"
+          "size": 22984,
+          "sha512": "90ad56b5b40a4eaeeac883db63bba3ef6965bdad846461be7fd020f2c17caa21dffd4dacd6ab7183f657f801db5a70ed3fe6a56069f9d85628e5368820739666",
+          "sha256": "c575755bd5e569e9b7eeb89879df204aa119107c38b72ee7799b4af93ba2926d",
+          "sha1": "96b09c1fcface0dc47dbafeeda8574dbc5e25448",
+          "md5": "c6b06c70f2e4f643adb43e92e9074cf2"
         }
       ]
     }
