@@ -1,0 +1,97 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.xihan",
+    "module": "lib_net",
+    "version": "3.4.10",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5-rc-1"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lib_net-3.4.10.aar",
+          "url": "lib_net-3.4.10.aar",
+          "size": 305743,
+          "sha512": "7436834f671d682d5270f8aea23360815dadc8f44f79cf692417ea790baa659e44c8fca06221476006b58dc6619708eb821e3c95b68f275d893f08619f6485fa",
+          "sha256": "2294b67d23983097a026ff8bc4b72d85ee98caaee4f7f45d647b6b31eca0e8bb",
+          "sha1": "69894134baf865b646874c7df1220d9c681f25b5",
+          "md5": "51c95e8f46ee9ee28a4d3e27bfee7e52"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.6.0-alpha05"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.6.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-android",
+          "version": {
+            "requires": "1.6.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lib_net-3.4.10.aar",
+          "url": "lib_net-3.4.10.aar",
+          "size": 305743,
+          "sha512": "7436834f671d682d5270f8aea23360815dadc8f44f79cf692417ea790baa659e44c8fca06221476006b58dc6619708eb821e3c95b68f275d893f08619f6485fa",
+          "sha256": "2294b67d23983097a026ff8bc4b72d85ee98caaee4f7f45d647b6b31eca0e8bb",
+          "sha1": "69894134baf865b646874c7df1220d9c681f25b5",
+          "md5": "51c95e8f46ee9ee28a4d3e27bfee7e52"
+        }
+      ]
+    }
+  ]
+}
