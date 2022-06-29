@@ -39,25 +39,25 @@
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>databinding-common</artifactId>
-      <version>7.4.0-alpha05</version>
+      <version>7.4.0-alpha06</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>databinding-runtime</artifactId>
-      <version>7.4.0-alpha05</version>
+      <version>7.4.0-alpha06</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>databinding-adapters</artifactId>
-      <version>7.4.0-alpha05</version>
+      <version>7.4.0-alpha06</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>databinding-ktx</artifactId>
-      <version>7.4.0-alpha05</version>
+      <version>7.4.0-alpha06</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
