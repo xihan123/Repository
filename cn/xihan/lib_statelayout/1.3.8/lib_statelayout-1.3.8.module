@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.5-rc-1"
+      "version": "7.5-rc-2"
     }
   },
   "variants": [
@@ -70,7 +70,7 @@
           "group": "androidx.core",
           "module": "core-ktx",
           "version": {
-            "requires": "1.9.0-alpha05"
+            "requires": "1.8.0"
           }
         },
         {
@@ -84,7 +84,7 @@
           "group": "androidx.constraintlayout",
           "module": "constraintlayout",
           "version": {
-            "requires": "2.2.0-alpha02"
+            "requires": "2.2.0-alpha03"
           }
         },
         {

@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.5-rc-1"
+      "version": "7.5-rc-2"
     }
   },
   "variants": [
@@ -55,28 +55,28 @@
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
-            "requires": "7.4.0-alpha06"
+            "requires": "7.4.0-alpha07"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-runtime",
           "version": {
-            "requires": "7.4.0-alpha06"
+            "requires": "7.4.0-alpha07"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-adapters",
           "version": {
-            "requires": "7.4.0-alpha06"
+            "requires": "7.4.0-alpha07"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-ktx",
           "version": {
-            "requires": "7.4.0-alpha06"
+            "requires": "7.4.0-alpha07"
           }
         },
         {
@@ -140,28 +140,28 @@
           "group": "androidx.databinding",
           "module": "databinding-common",
           "version": {
-            "requires": "7.4.0-alpha06"
+            "requires": "7.4.0-alpha07"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-runtime",
           "version": {
-            "requires": "7.4.0-alpha06"
+            "requires": "7.4.0-alpha07"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-adapters",
           "version": {
-            "requires": "7.4.0-alpha06"
+            "requires": "7.4.0-alpha07"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "databinding-ktx",
           "version": {
-            "requires": "7.4.0-alpha06"
+            "requires": "7.4.0-alpha07"
           }
         },
         {
@@ -175,7 +175,7 @@
           "group": "androidx.core",
           "module": "core-ktx",
           "version": {
-            "requires": "1.9.0-alpha05"
+            "requires": "1.8.0"
           }
         },
         {
