@@ -1,0 +1,58 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "cn.xihan",
+    "module": "lib_ijkplayer-x86",
+    "version": "0.8.8",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5-rc-2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "lib_ijkplayer-x86-0.8.8.aar",
+          "url": "lib_ijkplayer-x86-0.8.8.aar",
+          "size": 1414,
+          "sha512": "7b44f0c921c1a13123f8c2e392059c1d576316bafb1e3fe02b9d102ea9cf8bb34b5db92933a9ec19de78a80f834e5ba5cae32faa73103d4dc6df843c07925fbe",
+          "sha256": "71790137cb05c5686c713af01fc4988cc75d340a00b3b433eda9440ba092b6b5",
+          "sha1": "b3ef1d220e85b437bfb6d2a5596b771cfdc5a14f",
+          "md5": "8d27082226f4f5c8c3c4650f6afd4e77"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "lib_ijkplayer-x86-0.8.8.aar",
+          "url": "lib_ijkplayer-x86-0.8.8.aar",
+          "size": 1414,
+          "sha512": "7b44f0c921c1a13123f8c2e392059c1d576316bafb1e3fe02b9d102ea9cf8bb34b5db92933a9ec19de78a80f834e5ba5cae32faa73103d4dc6df843c07925fbe",
+          "sha256": "71790137cb05c5686c713af01fc4988cc75d340a00b3b433eda9440ba092b6b5",
+          "sha1": "b3ef1d220e85b437bfb6d2a5596b771cfdc5a14f",
+          "md5": "8d27082226f4f5c8c3c4650f6afd4e77"
+        }
+      ]
+    }
+  ]
+}
