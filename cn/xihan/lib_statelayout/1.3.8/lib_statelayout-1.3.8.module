@@ -84,7 +84,7 @@
           "group": "androidx.constraintlayout",
           "module": "constraintlayout",
           "version": {
-            "requires": "2.2.0-alpha03"
+            "requires": "2.2.0-alpha02"
           }
         },
         {
