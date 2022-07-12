@@ -15,19 +15,19 @@
     <dependency>
       <groupId>androidx.webkit</groupId>
       <artifactId>webkit</artifactId>
-      <version>1.5.0-alpha01</version>
+      <version>1.4.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>org.jsoup</groupId>
       <artifactId>jsoup</artifactId>
-      <version>1.15.1</version>
+      <version>1.15.2</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>androidx.appcompat</groupId>
       <artifactId>appcompat</artifactId>
-      <version>1.6.0-alpha05</version>
+      <version>1.4.2</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>

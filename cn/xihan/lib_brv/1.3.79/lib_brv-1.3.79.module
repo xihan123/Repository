@@ -182,7 +182,7 @@
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
-            "requires": "1.6.0-alpha05"
+            "requires": "1.4.2"
           }
         }
       ],
