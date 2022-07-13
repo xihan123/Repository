@@ -27,7 +27,7 @@
           "group": "androidx.webkit",
           "module": "webkit",
           "version": {
-            "requires": "1.4.0"
+            "requires": "1.5.0-beta01"
           }
         },
         {
@@ -63,14 +63,14 @@
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
-            "requires": "1.4.2"
+            "requires": "1.6.0-alpha05"
           }
         },
         {
           "group": "androidx.webkit",
           "module": "webkit",
           "version": {
-            "requires": "1.4.0"
+            "requires": "1.5.0-beta01"
           }
         },
         {
